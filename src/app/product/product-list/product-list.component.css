@@ -1,0 +1,19 @@
+.product-card {
+    max-width: 150px;
+}
+
+.container {
+    padding: 50px;
+    max-width : 1200;
+    margin : auto
+}
+
+.container-sm{
+    padding: 50px;
+    max-width : 800;
+    margin : auto    
+}
+
+.text-content{
+    margin-top: 5;
+}
